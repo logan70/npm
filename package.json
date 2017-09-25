@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "[toc]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logan70/npm.git"
+  },
+  "keywords": [],
+  "author": "logan <logan70@163.com> (http://logan70.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/logan70/npm/issues"
+  },
+  "homepage": "https://github.com/logan70/npm#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
